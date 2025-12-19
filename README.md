@@ -4,7 +4,7 @@
 ### Full-Stack Engineer | AI Practitioner
 
 🚀 Building scalable web applications  
-🧠 Passionate about AI, LLMs, and intelligent systems  
+🧠 Passionate about intelligent systems  
 
 </div>
 
