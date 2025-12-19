@@ -1,152 +1,114 @@
-## Hi there 👋
-
-<!--
-**Dalia852/Dalia852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="120"/>
-👋 Hi, I'm Dalia
-Software Developer | AI Practitioner | Full-Stack Engineer
-
-🚀 Building scalable web apps & AI-powered systems
-🧠 Passionate about LLMs, RAG, and intelligent decision-support tools
-
-</div>
-🌟 About Me
-
-Driven software professional with strong experience in Python, JavaScript, and modern frameworks like Django and React. I love integrating AI technologies (LangChain, OpenAI, Streamlit) into real-world applications that improve decision-making and user experience.
-
-🔭 Currently working on AI-powered healthcare & mobility solutions
-
-🌱 Always learning & experimenting with LLMs and backend scalability
-
-💡 Background in research & data analysis (MSc graduate)
-
-🛠️ Tech Stack
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="120"/>
 
+# Hi, I'm Dalia 👋  
+### Software Developer | AI Practitioner | Full-Stack Engineer
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🚀 Building scalable web applications  
+🧠 Passionate about AI, LLMs, and intelligent systems  
 
 </div>
-🚀 Featured Projects
-🚕 Taxi App (Solo Project – Ongoing)
-<img src="https://user-images.githubusercontent.com/placeholder/taxi-app.png" width="100%"/>
 
-Tech: Django · MySQL · AWS
+---
 
-A full-stack taxi application that connects drivers and customers with:
+## 🌟 About Me
 
-Role-based authentication
+Driven software developer with a strong foundation in **Python, JavaScript, and modern web frameworks**.  
+I enjoy building **robust, scalable applications** and integrating **AI tools** like **LangChain, OpenAI, and Streamlit** to create intelligent, data-driven solutions.
 
-Driver profiles & ratings
+I bring together **technical expertise, research experience, and problem-solving skills** to deliver applications with real-world impact.
 
-Ride request handling
+---
 
-Review & feedback system
+## 🛠️ Technical Skills
 
-🔗 GitHub: Take a Taxi
-🌍 Live: Deployed on AWS
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🏗️ MAKAN (Group Project)
-<img src="https://user-images.githubusercontent.com/placeholder/makan.png" width="100%"/>
+---
 
-Role: Backend Developer
+### ⚙️ Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-Backend system for an architecture & interior design platform:
+---
 
-REST APIs & business logic
+### 🤖 AI & LLM Tools
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Semantic%20Search-blueviolet?style=for-the-badge)
 
-Authentication & file storage
+---
 
-AI integration
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Video session support
+---
 
-🏥 AI-Dr Assistant (Group Project)
-<img src="https://user-images.githubusercontent.com/placeholder/ai-dr.png" width="100%"/>
+### ☁️ Tools & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-Tech: Streamlit · LangChain · OpenAI · RAG
+---
 
-AI-powered clinical decision-support tool:
+## 🚀 Projects
 
-Semantic search over patient history
+### 🚕 Taxi App (Solo Project – Ongoing)
+**Tech:** Django, MySQL, AWS  
+A full-stack taxi application connecting drivers and customers with:
+- Role-based authentication
+- Driver profiles & ratings
+- Ride request handling
+- Review and feedback system  
 
-Similar case comparison & outcomes
+---
 
-Continuous learning from doctor feedback
+### 🏗️ MAKAN (Group Project)
+Backend development for an architecture & interior design services platform:
+- REST APIs and business logic
+- Authentication & file storage
+- AI integration
+- Video session handling
 
-🔗 Live App: ICU-AI
-🔗 GitHub: Patient-ICU
+---
 
-🚧 Migrating to FastAPI + React for production scalability.
+### 🏥 AI-Dr Assistant (Group Project)
+**Tech:** Streamlit, LangChain, OpenAI, RAG  
+AI-powered clinical decision-support system that:
+- Uses semantic search over patient history
+- Compares similar cases and outcomes
+- Learns continuously from doctors’ recommendations  
 
-🌐 Personal Portfolio
-<img src="https://user-images.githubusercontent.com/placeholder/portfolio.png" width="100%"/>
+🚧 Currently migrating to **FastAPI + React**
 
-Responsive portfolio built with HTML, CSS, and JavaScript, featuring:
+---
 
-Interactive UI
+## 🎓 Education
+- **AI Practitioner Training** – PIP, Makers & Gigaverse (2025)
+- **Full-Stack Developer Certificate** – Axsos Academy (2025)
+- **Front-End Developer Certificate** – Udacity (Google Scholarship)
+- **MSc Materials Science & Nanotechnology** – Bilkent University (GPA 3.9/4.0)
+- **BE Materials Science & Engineering** – An Najah National University
 
-Animations
+---
 
-Project showcases
+## 🌍 Languages
+- English (Fluent – TOEFL iBT 105)
+- Arabic (Native)
+- Turkish (A2)
 
-🎓 Education
+---
 
-🎓 AI Practitioner Training – PIP, Makers & Gigaverse (2025)
-🎓 Full-Stack Developer Certificate – Axsos Academy (2025)
-🎓 Front-End Developer Certificate – Udacity (Google Scholarship)
-🎓 MSc Materials Science & Nanotechnology – Bilkent University (GPA 3.9/4.0)
-
-💼 Experience
-
-Graduate Researcher & Teaching Assistant – Bilkent University
-
-Research, lab instruction & data analysis
-
-Tools: Excel, PSPP, ImageJ
-
-English & Math Teacher – Pioneers Baccalaureate School
-
-🌍 Languages
-
-🇬🇧 English (Fluent – TOEFL iBT 105)
-
-🇵🇸 Arabic (Native)
-
-🇹🇷 Turkish (A2)
-
-📊 GitHub Stats
-<div align="center">
-
-
-
-
-</div>
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Email: your@email.com
