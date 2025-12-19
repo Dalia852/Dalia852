@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="120"/>
-
 # Hi, I'm Dalia 👋  
-### Software Developer | AI Practitioner | Full-Stack Engineer
+### Full-Stack Engineer | AI Practitioner
 
 🚀 Building scalable web applications  
 🧠 Passionate about AI, LLMs, and intelligent systems  
@@ -62,7 +60,7 @@ I bring together **technical expertise, research experience, and problem-solving
 
 ## 🚀 Projects
 
-### 🚕 Taxi App (Solo Project – Ongoing)
+### 🚕 Taxi App (Solo Project)
 **Tech:** Django, MySQL, AWS  
 A full-stack taxi application connecting drivers and customers with:
 - Role-based authentication
@@ -88,16 +86,11 @@ AI-powered clinical decision-support system that:
 - Compares similar cases and outcomes
 - Learns continuously from doctors’ recommendations  
 
-🚧 Currently migrating to **FastAPI + React**
-
----
 
 ## 🎓 Education
 - **AI Practitioner Training** – PIP, Makers & Gigaverse (2025)
 - **Full-Stack Developer Certificate** – Axsos Academy (2025)
 - **Front-End Developer Certificate** – Udacity (Google Scholarship)
-- **MSc Materials Science & Nanotechnology** – Bilkent University (GPA 3.9/4.0)
-- **BE Materials Science & Engineering** – An Najah National University
 
 ---
 
@@ -109,6 +102,6 @@ AI-powered clinical decision-support system that:
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your@email.com
+- GitHub: https://github.com/Dalia852
+- LinkedIn: https://www.linkedin.com/in/dalia-m-636780238/
+- Email: daliasaymah@gmail.com
