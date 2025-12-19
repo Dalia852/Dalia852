@@ -79,7 +79,7 @@ Backend development for an architecture & interior design services platform:
 
 ---
 
-### 🏥 AI-Dr Assistant (Group Project)
+### 🏥 AI-ICU Recommendation System (Group Project)
 **Tech:** Streamlit, LangChain, OpenAI, RAG  
 AI-powered clinical decision-support system that:
 - Uses semantic search over patient history
